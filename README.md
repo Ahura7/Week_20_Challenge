@@ -20,13 +20,13 @@ USYD FinTech Bootcamp Week 20 Challenge
 
 ### 2
 *1 Ether as Wei*
-![1 Ether as Wei](/Execution_Results/02.1-1_Ether_as_Wei.png "1 Ether as Wei")
+![1 Ether as Wei](/Execution_Results/02-1_Ether_as_Wei.png "1 Ether as Wei")
 
 *10 Ether as Wei*
-![10 Ether as Wei](/Execution_Results/02.2-10_Ether_as_Wei.png "10 Ether as Wei")
+![10 Ether as Wei](/Execution_Results/02-10_Ether_as_Wei.png "10 Ether as Wei")
 
 *5 Ether*
-![5 Ether](/Execution_Results/02.3-5_Ether.png "5 Ether")
+![5 Ether](/Execution_Results/02-5_Ether.png "5 Ether")
 
 ### 3
 
